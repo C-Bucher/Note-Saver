@@ -36,7 +36,7 @@
 
  *Baixe o código*
 
-*Clone este repositório: git clone https://github.com/HereTwo/bootcamp2-chrome-ext--HereTwo-.*
+*Clone este repositório: git clone [https://github.com/HereTwo/bootcamp2-chrome-ext--HereTwo-](https://github.com/C-Bucher/Note-Saver).*
 
 *Ou baixe o arquivo .zip pela página de Releases.*
 
